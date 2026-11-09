@@ -1,0 +1,23 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto / rendering caches
+.quarto/
+*_cache/
+*_files/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary / editor files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Logs
+*.log
